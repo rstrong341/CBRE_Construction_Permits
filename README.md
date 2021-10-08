@@ -12,4 +12,5 @@ This map uses interactive clusters to vizualize where construction appears most 
 
 * DEMO
 
-
+https://github.com/rstrong341/CBRE_Heatmap/blob/main/Animation.gif
+![heatmap](https://github.com/rstrong341/CBRE_Heatmap/blob/main/Animation.gif)
