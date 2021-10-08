@@ -2,7 +2,8 @@
 This map uses a [Leaflet.Heat](https://github.com/Leaflet/Leaflet.heat) plugin
 to transform points into a heat layer.
 
-![Screenshot](screenshot.png)
+![heatmap](https://user-images.githubusercontent.com/74929838/136492427-de631c41-0176-417c-807b-40d4911df04b.PNG)
+
 
 ## Demo
 https://handsondataviz.github.io/leaflet-heatmap
