@@ -4,8 +4,8 @@
 This map uses a [Leaflet.Heat](https://github.com/Leaflet/Leaflet.heat) plugin
 to transform points into a heat layer.
 
+![heatmap](https://user-images.githubusercontent.com/74929838/136618993-5f13f80a-942b-47eb-8cbc-96331c156df4.PNG)
 
-<img width="1022" alt="screenshot" src="https://user-images.githubusercontent.com/74929838/136618950-094474a7-bf6b-46ef-978a-de7bac456d85.png">
 
 
 # CLUSTER MAP
