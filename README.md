@@ -15,3 +15,13 @@ This map uses interactive clusters to vizualize where construction appears most 
 
 https://github.com/rstrong341/CBRE_Heatmap/blob/main/Animation.gif
 ![heatmap](https://github.com/rstrong341/CBRE_Heatmap/blob/main/Animation.gif)
+
+
+# Details Map
+This map uses an interactive popup to showcase office location, image, zoning and lot size.
+
+* DEMO
+
+
+![heatmap](https://github.com/rstrong341/CBRE_Heatmap/blob/main/Pins.gif)
+
